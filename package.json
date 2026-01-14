@@ -1,7 +1,7 @@
 {
-  "name": "svg-to-jpg-converter",
+  "name": "image-converter-pro",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -13,7 +13,8 @@
     "jszip": "^3.10.1",
     "lucide-react": "^0.292.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "heic2any": "^0.0.4"
   },
   "devDependencies": {
     "@types/file-saver": "^2.0.7",
